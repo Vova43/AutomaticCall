@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="AutomaticCall2.0.exe" version="2.0.2.0" publicKeyToken="5f6564233d01079b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AutomaticCall2.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="AutomaticCall2.0.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          При необходимости изменить уровень управления учетными записями Windows замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если вы хотите использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AutomaticCall2.0.exe" size="59904">
+      <assemblyIdentity name="AutomaticCall2.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ZEypY7+Kg+zirI59Nmhj46QKNuu4Rx1w6zOqJhjCs7k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NAudio.dll" size="464384">
+      <assemblyIdentity name="NAudio" version="1.7.2.19" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>j0m9h8XIKPJQXvyWWmZvuGyjVD5tXy/9Je6rznh3BTw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="AutomaticCall2.0.exe.config" size="184">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FqWy0dfMmRS85zkU1NlW07p6LsNOPUHodvLiZcFdgJY=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=dns-ПК\dns" issuerKeyHash="c5bfe49f29f840b682ebd9b6ec47ba05000067b3" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>XdGhPvsG30DpR4EGVisvzUTsLjPFSGY2/qxQOBdrjbI=</DigestValue></Reference></SignedInfo><SignatureValue>cAadeMa95Ry4kuHO2HvQgxjFktz7wFdkh7U2a/n8REaAuww1v48XOWnq8B3o8N/GESCGudZ0dVud270Tk+Nhx5D8RnmxNumDVp+GCXCK/+x0quSPP0MimQMo4fR9UjSvwcGASweTnfDvqaTGJ5IooKBjJNF0Y13ZzMXJAgPmpzk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>thR2x5whF00QckdAjUMbdbLdCZaQVCsjcprH4FnbPrqidMX73bTKjMlOfkVuwikVhf7QRgGO4iPc/jzWg2YWjeT+LWpmshMi/I1O3IBw1xlZLtZpYzm7eF1fOlDVHKbms3SxYGlttKuPREKMxlnUIGdng5bEe9Ic75zkU/3/k40=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b28d6b173850acfe366648c5332eec44cd2f2b56068147e940df06fb3ea1d15d" Description="" Url=""><as:assemblyIdentity name="AutomaticCall2.0.exe" version="2.0.2.0" publicKeyToken="5f6564233d01079b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=dns-ПК\dns</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>qDc2cDtZ/A6fff6nQ2j8N3TlBq1Nt/mMqrn1huoyTfo=</DigestValue></Reference></SignedInfo><SignatureValue>p42CKTs2vxHl+G057s2dz21pKNUF/aUzVOeY6/Syd4uM6ezBhUrEPS6SGfkaYVzAXP/ozmaes4swwnMaVrtTULicxEkXEw55b4osa0ppDixLz74fXgjtmG02GKMQHAMP2P2ErcVLBKfNFDnHp1KYqFazSWEyjhHZcAzT0RkPGP4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>thR2x5whF00QckdAjUMbdbLdCZaQVCsjcprH4FnbPrqidMX73bTKjMlOfkVuwikVhf7QRgGO4iPc/jzWg2YWjeT+LWpmshMi/I1O3IBw1xlZLtZpYzm7eF1fOlDVHKbms3SxYGlttKuPREKMxlnUIGdng5bEe9Ic75zkU/3/k40=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQRXelpmuf37NK9JFWBEFh4zANBgkqhkiG9w0BAQsFADAfMR0wGwYDVQQDHhQAZABuAHMALQQfBBoAXABkAG4AczAeFw0yMzA0MDQxMTE0NDRaFw0yNDA0MDMxNzE0NDRaMB8xHTAbBgNVBAMeFABkAG4AcwAtBB8EGgBcAGQAbgBzMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2FHbHnCEXTRByR0CNQxt1st0JlpBUKyNymsfgWds+uqJ0xfvdtMqMyU5+RW7CKRWF/tBGAY7iI9z+PNaDZhaN5P4tamayEyL8jU7cgHDXGVku1mljObt4XV86UNUcpuazdLFgaW20q49EQozGWdQgZ2eDlsR70hzvnORT/f+TjQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJv6Nl7g6zD8jH6uFrAUPGVZMhbccIcgDjkKHMf3yrqyoWt7HLeo8autePFfTqzgrdw7U3MNpiR6rW/Edbd3641vl6wR/2KWOE2cpD6/XWV2YdZW4HnZif7o44De6s+zLAomxRq70LFsBlACXOrKEWpE1hYyAAVgXwzoradIPepa</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
