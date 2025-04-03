@@ -1,0 +1,11 @@
+c:\users\dns\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+c:\users\dns\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+c:\users\dns\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+c:\users\dns\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+c:\users\dns\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+c:\users\dns\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+c:\users\dns\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+c:\users\dns\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Form1.resources
+c:\users\dns\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+c:\users\dns\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Form2.resources
+c:\users\dns\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache

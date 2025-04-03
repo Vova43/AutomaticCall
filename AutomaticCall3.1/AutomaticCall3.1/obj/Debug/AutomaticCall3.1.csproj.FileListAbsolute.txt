@@ -1,0 +1,7 @@
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.1\AutomaticCall3.1\bin\Debug\AutomaticCall3.1.exe
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.1\AutomaticCall3.1\bin\Debug\AutomaticCall3.1.pdb
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.1\AutomaticCall3.1\obj\Debug\AutomaticCall3._1.Form1.resources
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.1\AutomaticCall3.1\obj\Debug\AutomaticCall3._1.Properties.Resources.resources
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.1\AutomaticCall3.1\obj\Debug\AutomaticCall3.1.csproj.GenerateResource.Cache
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.1\AutomaticCall3.1\obj\Debug\AutomaticCall3.1.exe
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.1\AutomaticCall3.1\obj\Debug\AutomaticCall3.1.pdb
