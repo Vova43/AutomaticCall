@@ -1,0 +1,16 @@
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\bin\Debug\AutomaticCall3.0_1.exe
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\bin\Debug\AutomaticCall3.0_1.pdb
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\obj\Debug\MainWindow.baml
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\obj\Debug\MainWindow.g.cs
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\obj\Debug\App.g.cs
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\obj\Debug\AutomaticCall3.0_1_MarkupCompile.cache
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\obj\Debug\AutomaticCall3.0_1.g.resources
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\obj\Debug\AutomaticCall3._0_1.Properties.Resources.resources
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\obj\Debug\AutomaticCall3.0_1.csproj.GenerateResource.Cache
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\obj\Debug\AutomaticCall3.0_1.exe
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\obj\Debug\AutomaticCall3.0_1.pdb
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\bin\Debug\AutomaticCall3.0_1.exe.config
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\obj\Debug\AutomaticCall3.0_1.csprojResolveAssemblyReference.cache
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\obj\Debug\StyleMain.baml
+C:\Users\dns\Documents\Visual Studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\obj\Debug\AutomaticCall3._0_1.Form1.resources
+C:\Users\dns\Documents\Visual Studio 2013\Projects\AutomaticCall3.0_1\AutomaticCall3.0_1\obj\Debug\App.baml
