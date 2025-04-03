@@ -1,0 +1,9 @@
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall\AutomaticCall\bin\Debug\AutomaticCall.exe
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall\AutomaticCall\bin\Debug\AutomaticCall.pdb
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall\AutomaticCall\obj\Debug\AutomaticCall.csprojResolveAssemblyReference.cache
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall\AutomaticCall\obj\Debug\AutomaticCall.Form1.resources
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall\AutomaticCall\obj\Debug\AutomaticCall.Properties.Resources.resources
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall\AutomaticCall\obj\Debug\AutomaticCall.csproj.GenerateResource.Cache
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall\AutomaticCall\obj\Debug\AutomaticCall.exe
+c:\users\dns\documents\visual studio 2013\Projects\AutomaticCall\AutomaticCall\obj\Debug\AutomaticCall.pdb
+C:\Users\dns\Documents\Visual Studio 2013\Projects\AutomaticCall\AutomaticCall\bin\Debug\AutomaticCall.exe.config
